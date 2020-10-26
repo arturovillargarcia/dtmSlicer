@@ -1,4 +1,4 @@
-"""This module contain functions that are used by the two main
+"""This module contains functions that are used by the two main
 functions of the program: "slicer" and "run_slicer".
 
 This module contains the following functions:
